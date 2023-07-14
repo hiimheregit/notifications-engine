@@ -7,7 +7,7 @@ require (
 	github.com/PagerDuty/go-pagerduty v1.7.0
 	github.com/RocketChat/Rocket.Chat.Go.SDK v0.0.0-20210112200207-10ab4d695d60
 	github.com/antonmedv/expr v1.12.6
-	github.com/bradleyfalzon/ghinstallation/v2 v2.5.0
+	github.com/bradleyfalzon/ghinstallation/v2 v2.6.0
 	github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1
 	github.com/golang/mock v1.6.0
 	github.com/google/go-github/v41 v41.0.0
@@ -45,7 +45,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/go-cmp v0.5.9 // indirect
-	github.com/google/go-github/v53 v53.0.0 // indirect
+	github.com/google/go-github/v53 v53.2.0 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/gofuzz v1.1.0 // indirect
 	github.com/google/uuid v1.1.2 // indirect
